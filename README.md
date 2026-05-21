@@ -9,7 +9,7 @@ Parametric wooden tilting maze game designed and fabricated using CNC machining 
 
 Detailed fabrication workflows, CAD development, assembly process, and gameplay testing are available here:
 
-[Full Project Documentation](https://www.rayanabdulgafoor.in/projects/general-projects/zig-zag/index.html)
+[Project Documentation](https://www.rayanabdulgafoor.in/projects/general-projects/zig-zag/index.html)
 
 ---
 
