@@ -1,4 +1,4 @@
-# Zig Zag – Parametric Tilting Skill Game
+# Zig Zag: Parametric Tilting Skill Game
 
 Parametric wooden tilting maze game designed and fabricated using CNC machining and digital fabrication workflows.
 
